@@ -8,10 +8,14 @@ h1 {
   color: #2738F5;
 }
 
-img {
-  max-width: 100%;
-}
-
 p {
   line-height: 1.6;
+}
+
+.hobby-favorite {
+  background-color: #FEE7FC;
+}
+
+#profile-photo {
+  width: 200px;
 }
