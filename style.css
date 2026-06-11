@@ -12,6 +12,13 @@ p {
   line-height: 1.6;
 }
 
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
+
 .hobby-favorite {
   background-color: #FEE7FC;
 }
